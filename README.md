@@ -22,13 +22,10 @@
 
 ### Spring boot
 
-+ [DI(Dependency Injection)에 대해 설명해 주세요.]()
-+ [IoC(Inversion of Control)와 IoC 컨테이너에 대해 설명해 주세요.]()
-
++ [DI(Dependency Injection)에 대해 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/SPRINGBOOT/DI(Dependency%20Injection).md)
++ [IoC(Inversion of Control)와 IoC 컨테이너에 대해 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/SPRINGBOOT/IoC(Inversion%20Of%20Control).md)
 + [Spring framework의 3대 핵심기술에 대해 설명해 주세요.]()
-+ [Spring Bean에 대해 설명해 주세요.]()
-
-+ [bean scope의 종류에 대해 아는대로 설명해 주세요.]()
++ [Spring Bean에 대해 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/SPRINGBOOT/Bean.md)
 + [Spring에서 CORS 에러를 해결하기 위한 방법을 설명해 주세요.]()
 
 <br>
@@ -68,7 +65,6 @@
 + [JWT에 대해서 설명해 주세요.]()
 + [Docker와 Docker-Compose의 차이에 대해 설명해 주세요.]()
 + [RPC는 무엇이며, gRPC는 왜 사용하는 걸까요?]()
-
 + [테스트 종류와 경험에 대해 말씀해 주세요.]()
 + [싱글톤 패턴을 설명해 주세요.]()
 + [빌더 패턴에 대해 설명해 주세요.]()
