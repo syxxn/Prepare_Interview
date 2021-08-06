@@ -1,6 +1,6 @@
 # IoC(Inversion Of Control)
 
-IoC란, Inversion of Control(제어의 반전)의 줄임말로서, 생성된 생명주기 전체에 대한 관리를 프레임워크가 맡아서 하는 것을 말합니다.
+IoC란, Inversion of Control(제어의 반전)의 줄임말로서, 생성된 객체의 생명주기 전체에 대한 관리를 프레임워크가 맡아서 하는 것을 말합니다.
 
 IoC Container가 빈의 생명주기를 관리하고, DI를 통해 객체 간의 의존성을 관리합니다.
 
