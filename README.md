@@ -15,7 +15,7 @@
 + [오버라이딩과 오버로딩의 개념과 차이점을 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/JAVA/%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9%EA%B3%BC%20%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9.md)
 + [인터페이스와 추상 클래스의 차이점에 대해 설명해 주세요.]
 + [자바의 원시타입과 참조타입에 대해 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/JAVA/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%9B%90%EC%8B%9C%ED%83%80%EC%9E%85%EA%B3%BC%20%EC%B0%B8%EC%A1%B0%ED%83%80%EC%9E%85.md)
-+ [String, StringBuilder, StringBuffer 각각에 대해 설명해 주세요.]
++ [String, StringBuilder, StringBuffer 각각에 대해 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/JAVA/String%2C%20StringBuilder%2C%20StringBuffer.md)
 + [객체지향 5대원칙 SOLID에 대해 아는대로 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/JAVA/SOLID.md)
 + [Stream에 대해 설명해 주세요]
 
@@ -68,14 +68,14 @@
 
 ### Etc
 
-+ [JWT에 대해서 설명해 주세요.]
-+ [Docker와 Docker-Compose의 차이에 대해 설명해 주세요.]
++ [JWT에 대해서 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/ETC/JWT.md)
++ [Docker와 Docker-Compose의 차이에 대해 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/ETC/Docker%20%26%20Docker-compose.md)
 + [RPC는 무엇이며, gRPC는 왜 사용하는 걸까요?]
 + [테스트 종류와 경험에 대해 말씀해 주세요.]
 + [싱글톤 패턴을 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/ETC/Singleton%20Pattern.md)
-+ [빌더 패턴에 대해 설명해 주세요.]
++ [빌더 패턴에 대해 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/ETC/Builder%20Pattern.md)
 + [동기/비동기와 블로킹/논블로킹의 차이를 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/ETC/%EB%8F%99%EA%B8%B0%EB%B9%84%EB%8F%99%EA%B8%B0%20%26%20%EB%B8%94%EB%A1%9C%ED%82%B9%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9.md)
-+ [DAO와 DTO, VO 각각을 설명해 주세요.]
++ [DAO와 DTO, VO 각각을 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/ETC/DAO%2C%20DTO%2C%20VO.md)
 + [애자일 방법론에 대해서 알고 있는 것을 말씀해 주세요.]
 + [CI/CD가 무엇인가요? 왜 CI/CD가 장점이 될까요?]
 
