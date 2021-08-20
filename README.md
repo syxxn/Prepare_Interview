@@ -47,18 +47,17 @@
 
 ### Network
 
-+ [TCP와 UDP의 차이점에 대해 설명해 주세요.]
++ [TCP와 UDP의 차이점에 대해 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/NETWORK/TCP%20UDP.md)
 + [HTTP와 HTTPS의 차이점에 대해서 설명해 주세요.]
 + [GET과 POST의 차이점에 대해서 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/NETWORK/Get%20vs%20Post.md)
 + [PUT과 PATCH의 차이점에 대해서 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/NETWORK/Put%20vs%20Patch.md)
-+ [CORS란 무엇인지 설명해 주세요.]
-+ [HTTP 요청과 응답 헤더에는 어떤 내용이 들어가는 지 설명해 주세요.]
++ [HTTP 요청과 응답 헤더에는 어떤 내용이 들어가는지 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/NETWORK/HTTP%20Header.md)
 
 <br>
 
 ### OS
 
-+ [프로세스와 스레드의 차이를 설명해 주세요.]
++ [프로세스와 스레드의 차이를 설명해 주세요.](https://github.com/syxxn/Prepare_Interview/blob/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 + [문맥 교환에 대해 설명해 주세요.]
 + [교착상태와 기아상태의 해결 방법에 대해 설명해 주세요.]
 + [Tread-safe하다는 것의 의미를 설명해 주세요.]
